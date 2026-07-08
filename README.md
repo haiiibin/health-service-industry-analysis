@@ -27,3 +27,7 @@ NLP-driven competitive analysis of the US health service industry using 5,481 SE
 ## Tech Stack
 
 Python, TF-IDF, Word2Vec (gensim), NLTK, cosine similarity, pandas
+
+---
+
+_Part of my portfolio: [haiiibin.github.io](https://haiiibin.github.io)_
